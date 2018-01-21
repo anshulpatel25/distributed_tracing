@@ -32,7 +32,7 @@ $ source activate
 (venv)$ flask run --host=0.0.0.0 --port 7000
 ```
 
-## Start the Payment Service
+## Starting the Payment Service
 
 ```
 (venv)$ export FLASK_APP=paymentservice.py
